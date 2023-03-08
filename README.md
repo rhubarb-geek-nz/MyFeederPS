@@ -10,7 +10,7 @@ dotnet build MyFeederPS.csproj --configuration Release
 
 Install by copying contents of `bin/Release/netstandard2.1` into a new `MyFeederPS` directory on the [PSModulePath](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_psmodulepath)
 
-Run the `test.ps1` to confirm it works.
+Run the `MyFeederPS.ps1` to confirm it works.
 
 ```
 
